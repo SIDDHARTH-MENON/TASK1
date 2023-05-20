@@ -30,7 +30,7 @@ let food2={
 let simp=prompt("enter your name");
 
 //game external
-setInterval(gamengine,200);
+setInterval(gamengine,800);
   
 
 let score=0;
